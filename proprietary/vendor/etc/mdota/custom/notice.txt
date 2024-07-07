@@ -1,0 +1,4 @@
+Put MCF OTA XMLs and MCF OTA binarys here.
+The purpose is MCF OTA files for this branch, 
+it means that the OTA files will be supported to all projects. 
+If there have a same OTA files in CUSTOM_PROJECT, then it will be replaced.

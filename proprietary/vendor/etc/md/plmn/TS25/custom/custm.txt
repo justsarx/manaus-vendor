@@ -1,0 +1,62 @@
+310150,cricket,cricket
+313390,Optimum,Optimum
+312530,Sprint,Sprint
+302370,Fido,Fido
+31070,AT&T,AT&T
+31090,AT&T,AT&T
+310560,AT&T,AT&T
+310680,AT&T,AT&T
+310980,AT&T,AT&T
+732123,Movistar,Movistar
+73002,Movistar,Movistar
+72234,PERSONAL,PERSONAL
+20811,F SFR,SFR
+74001,CLARO,CLARO
+33870,CLARO,ClaroJam
+00101,Test PLMN 001-01,Test PLMN 001-01
+29703,MTEL,MTEL
+51505,SUN,SUN
+22601,Vodafone RO,VF-RO
+22606,TELEKOM.RO,TELEKOM
+22605,Digi.Mobil,Digi
+26003,Orange,Orange
+51011,XL 4G LTE,XL
+28602,Vodafone Turkey,VF-TR
+73008,CHL VTR,VTR
+73023,Claro,Claro
+25011,YOTA,YOTA
+52000,TRUE-H 3G+,TH 3G+
+45400,csl.,csl.
+45402,csl.,csl.
+45418,csl.,csl.
+40413,Vodafone IN,Vodafone
+40484,Vodafone IN,Vodafone
+40411,Vodafone IN,Vodafone
+40405,Vodafone IN,Vodafone
+40401,Vodafone IN,Vodafone
+40486,Vodafone IN,Vodafone
+40446,Vodafone IN,Vodafone
+40430,Vodafone IN,Vodafone
+40427,Vodafone IN,Vodafone
+40420,Vodafone IN,Vodafone
+40488,Vodafone IN,Vodafone
+40460,Vodafone IN,Vodafone
+40443,Vodafone IN,Vodafone
+40415,Vodafone IN,Vodafone
+40566,Vodafone IN,Vodafone
+40567,Vodafone IN,Vodafone
+405751,Vodafone IN,Vodafone
+405752,Vodafone IN,Vodafone
+405754,Vodafone IN,Vodafone
+405750,Vodafone IN,Vodafone
+405756,Vodafone IN,Vodafone
+405755,Vodafone IN,Vodafone
+405753,Vodafone IN,Vodafone
+23002,O2.CZ,O2.CZ
+72439,Nextel Brasil,Nextel
+45507,China Telecom,CT
+51566,DITO 4G,DITO
+311490,Sprint,Sprint
+313100,First Net,First Net
+23432, Virgin, Virgin
+334090,AT&T, AT&T
